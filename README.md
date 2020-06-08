@@ -11,7 +11,7 @@ The attributes in the set are:
 * Species: the species of the flower (Iris setosa, Iris versicolor or Iris virginica)
 
 ## Parts of a Flower ##
-<img src="https://images.squarespace-cdn.com/content/v1/54a0bf64e4b07c077784c627/1444142936251-05SPCNHMXG4L0QOZZ8QU/ke17ZwdGBToddI8pDm48kNIowuOGXZvvQmNGncAN1E97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmaUzSiviepfuOufnJa7SEDbr9Wn2yvYHikg245dY2aeryt-cseUh_XKtvQuJeYxOh/image-asset.jpeg?format=1000w" width="500" height="500">
+<img src="https://images.squarespace-cdn.com/content/v1/54a0bf64e4b07c077784c627/1444142936251-05SPCNHMXG4L0QOZZ8QU/ke17ZwdGBToddI8pDm48kNIowuOGXZvvQmNGncAN1E97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmaUzSiviepfuOufnJa7SEDbr9Wn2yvYHikg245dY2aeryt-cseUh_XKtvQuJeYxOh/image-asset.jpeg?format=1000w" width="500" height="400">
 Image Source: https://www.mathwizurd.com/bio/2015/10/6/angiosperms-and-the-structure-of-a-flower
 
 ## What should we do? ##
